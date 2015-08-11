@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  details: MyString
+  count: 1
+  total: 2015-08-07 21:29:54
+  user_id: 
+
+two:
+  name: MyString
+  details: MyString
+  count: 1
+  total: 2015-08-07 21:29:54
+  user_id: 

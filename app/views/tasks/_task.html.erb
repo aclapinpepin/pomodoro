@@ -1,0 +1,6 @@
+<%= div_for task do %>
+  <%= task.name %>
+  <%= task.details %>
+  Task created
+  <%= time_ago_in_words(task.created_at) %>
+<% end %>
